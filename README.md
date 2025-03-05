@@ -3,6 +3,13 @@
 This repository contains a machine learning project that aims to predict the survival of passengers aboard the Titanic. <br/>
 The project uses a dataset of passengers to build and test predictive models.
 
+## 🛠 Model Development
+
+- Building a model to predict passenger survival using historical data.
+- Technologies used include Python, pandas for data manipulation.
+- Demonstrates techniques such as data preprocessing, feature engineering, and classification.
+- Includes data visualization using Matplotlib and Seaborn for data exploration.
+- 
 ## 📊 Dataset
 
 The dataset includes two files:
